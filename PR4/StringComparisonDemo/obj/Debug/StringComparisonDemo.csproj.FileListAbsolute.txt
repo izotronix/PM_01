@@ -1,0 +1,8 @@
+D:\CppProjects\PR4\StringComparisonDemo\bin\Debug\StringComparisonDemo.exe.config
+D:\CppProjects\PR4\StringComparisonDemo\bin\Debug\StringComparisonDemo.exe
+D:\CppProjects\PR4\StringComparisonDemo\bin\Debug\StringComparisonDemo.pdb
+D:\CppProjects\PR4\StringComparisonDemo\obj\Debug\StringComparisonDemo.csproj.AssemblyReference.cache
+D:\CppProjects\PR4\StringComparisonDemo\obj\Debug\StringComparisonDemo.csproj.CoreCompileInputs.cache
+D:\CppProjects\PR4\StringComparisonDemo\obj\Debug\StringComparisonDemo.exe
+D:\CppProjects\PR4\StringComparisonDemo\obj\Debug\StringComparisonDemo.pdb
+D:\CppProjects\PR4\StringComparisonDemo\obj\Debug\StringComparisonDemo.exe.config

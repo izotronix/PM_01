@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CppProjects\\PR4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B109DA4-162C-4336-8136-D5450F613BF4}|PR4\\PR4.csproj|D:\\CppProjects\\PR4\\pr4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B109DA4-162C-4336-8136-D5450F613BF4}|PR4\\PR4.csproj|solutionrelative:pr4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D495ED-0F46-47E7-BB24-32485BB9D8A2}|StringComparisonDemo\\StringComparisonDemo.csproj|d:\\cppprojects\\pr4\\stringcomparisondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D495ED-0F46-47E7-BB24-32485BB9D8A2}|StringComparisonDemo\\StringComparisonDemo.csproj|solutionrelative:stringcomparisondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 157,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CppProjects\\PR4\\StringComparisonDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StringComparisonDemo\\Program.cs",
+              "ToolTip": "D:\\CppProjects\\PR4\\StringComparisonDemo\\Program.cs",
+              "RelativeToolTip": "StringComparisonDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T07:06:00.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CppProjects\\PR4\\PR4\\Program.cs",
+              "RelativeDocumentMoniker": "PR4\\Program.cs",
+              "ToolTip": "D:\\CppProjects\\PR4\\PR4\\Program.cs",
+              "RelativeToolTip": "PR4\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T05:33:22.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 157,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
